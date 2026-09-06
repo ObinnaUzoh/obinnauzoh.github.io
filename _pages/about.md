@@ -26,7 +26,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+This page is under construction. 
+
+<!--
 My name is Obinna, and I am passionate about tackling complex challenges at the intersection of computational physics, materials science, and machine learning. With over six years of experience in experimental physics and advanced modeling, I’ve contributed to groundbreaking research through peer-reviewed publications, impactful collaborations, and innovative open-source tools for material simulations. Beyond research, I enjoy playing football (soccer), reading, and giving back through mentoring and community outreach. Let’s connect to share ideas and explore opportunities at the forefront of science and technology!
+-->
  
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
