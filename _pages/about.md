@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  <!-- more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Your City, State 12345</p> -->
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,9 +29,14 @@ latest_posts:
 
 This page is under construction. 
 
-<!--
-My name is Obinna, and I am passionate about tackling complex challenges at the intersection of computational physics, materials science, and machine learning. With over six years of experience in experimental physics and advanced modeling, I’ve contributed to groundbreaking research through peer-reviewed publications, impactful collaborations, and innovative open-source tools for material simulations. Beyond research, I enjoy playing football (soccer), reading, and giving back through mentoring and community outreach. Let’s connect to share ideas and explore opportunities at the forefront of science and technology!
--->
+
+Hi, I'm Obinna.
+
+With a background in materials science and computational physics, I've spent years building models to understand complex systems and analyze data. I'm now applying those same skills to machine learning, data science, and real-world modeling challenges.
+
+This site highlights projects and open-source work that document that journey.
+
+
  
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
