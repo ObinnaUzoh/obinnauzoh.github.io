@@ -1,8 +1,8 @@
 github_users:
-- ObinnaUzoh
+ - ObinnaUzoh
 
 repo_description_lines_max: 2
 
 github_repos:
-  - ObinnaUzoh/mapillary-semantic-segmentation
+ - ObinnaUzoh/mapillary-semantic-segmentation
   - ObinnaUzoh/Quantum_simulation_of_H2-molecule
