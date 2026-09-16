@@ -33,6 +33,7 @@ With a background in materials science and computational physics, I've spent yea
 
 This site highlights projects and open-source work that document that journey.
 
+Site is correctly under construction. 
 
  
 <!-- 
