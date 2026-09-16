@@ -12,8 +12,9 @@ related_publications: false
 ---
 
 ## Overview
+[Read Full Medium Article](https://medium.com/@uzohchinedu/deep-learning-for-computer-vision-my-journey-into-semantic-segmentation-45b9d0491d0f){: .btn .btn-sm .z-depth-0}
 
-This project documents my journey into semantic segmentation, a computer vision task that assigns a class label to every pixel in an image. Unlike image classification or object detection, semantic segmentation produces a dense pixel-level understanding of a scene, making it useful for applications such as autonomous driving, medical imaging, and geospatial analysis. :contentReference[oaicite:0]{index=0}
+This project documents my journey into semantic segmentation, a computer vision task that assigns a class label to every pixel in an image. Unlike image classification or object detection, semantic segmentation produces a dense pixel-level understanding of a scene, making it useful for applications such as autonomous driving, medical imaging, and geospatial analysis.
 
 The project focuses on understanding semantic segmentation workflows, dataset preparation, model training, evaluation, and visualization using the Mapillary Vistas dataset.
 
@@ -43,7 +44,7 @@ The workflow consisted of:
 4. Validation and performance evaluation
 5. Visualization of segmentation outputs
 
-Semantic segmentation models typically use encoder-decoder architectures that combine contextual understanding with fine-grained spatial information. :contentReference[oaicite:1]{index=1}
+Semantic segmentation models typically use encoder-decoder architectures that combine contextual understanding with fine-grained spatial information. 
 
 ## Results
 
