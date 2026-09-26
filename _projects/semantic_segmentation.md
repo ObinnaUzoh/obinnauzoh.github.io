@@ -4,7 +4,7 @@ title: Deep Learning for Computer Vision
 description: A semantic segmentation project using deep learning and the Mapillary Vistas dataset.
 img: assets/img/semantic-segmentation-cover.png
 importance: 1
-category: machine learning
+category: data analytics and machine learning
 
 github: https://github.com/ObinnaUzoh/mapillary-semantic-segmentation
 
