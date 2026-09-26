@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
+  - ObinnaUzoh/BC-health-authority-performance
   - ObinnaUzoh/mapillary_semantic_segmentation
   - ObinnaUzoh/Quantum_simulation_of_hydrogen-molecule
