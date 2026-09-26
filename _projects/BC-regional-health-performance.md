@@ -1,15 +1,15 @@
 ---
-
 layout: page
 title: BC Health Authority Performance Analytics
 description: A healthcare business intelligence project leveraging **MySQL** and **Power BI** to analyze and visualize performance metrics across British Columbia's regional health authorities.
-img: assets/img/bc-health-authority-performance-cover.png
+img: assets/img/health-authority-dashboard.png
 importance: 1
 category: data analytics
 
 github: https://github.com/ObinnaUzoh/BC-health-authority-performance
 
-## related_publications: false
+related_publications: false
+---
 
 ## Overview
 
@@ -20,7 +20,7 @@ The objective was to transform healthcare performance data through data modeling
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bc-health-authority-performance-cover.png" title="BC regional health dashboard" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/health-authority-dashboard.png" title="BC regional health dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
