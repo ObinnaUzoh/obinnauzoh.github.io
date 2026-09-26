@@ -1,10 +1,10 @@
 ---
 layout: page
 title: BC Health Authority Performance Analytics
-description: A healthcare business intelligence project leveraging **MySQL** and **Power BI** to analyze and visualize performance metrics across British Columbia's regional health authorities.
+description: A healthcare business intelligence project leveraging MySQL and Power BI to analyze and visualize performance metrics across British Columbia's regional health authorities.
 img: assets/img/health-authority-dashboard.png
 importance: 1
-category: data analytics
+category: data analytics and machine learning
 
 github: https://github.com/ObinnaUzoh/BC-health-authority-performance
 
@@ -15,7 +15,7 @@ related_publications: false
 
 This project explores healthcare performance across British Columbia's regional health authorities for a 5-year period, through the development of a data analytics and business intelligence solution using **MySQL** and **Power BI**.
 
-The objective was to transform healthcare performance data through data modeling, SQL-based analysis, and interactive dashboards. The resulting visualizations can enable stakeholders to compare regional performance, identify trends, and support evidence-based decision-making within the healthcare system in British Columbia.
+The objective was to transform healthcare performance data through data modeling, SQL-based analysis, and interactive dashboards. The resulting dynamic visualizations can enable stakeholders to compare regional performance, identify trends, and support evidence-based decision-making within the healthcare system in British Columbia.
 
 
 <div class="row">
@@ -24,7 +24,7 @@ The objective was to transform healthcare performance data through data modeling
     </div>
 </div>
 <div class="caption">
-   The **population** record is based on the year **2024**, while the **health performance indicators** are from a 5-year period between **2020/2021 to 2024/2025**.
+   Dashboard Overview: The population record is based on the year 2024, while the **health performance indicators are from a 5-year period between 2020/2021 to 2024/2025. See the Github repo link below to explore the dynamic dashboard.
 </div>
 
 ## Key Findings
@@ -44,4 +44,4 @@ The objective was to transform healthcare performance data through data modeling
 
 ## Links
 
-* GitHub Repository with details of the project, including key findings can be found here: https://github.com/ObinnaUzoh/BC-health-authority-performance
+* GitHub Repository with details of the project, including the dynamic dashboard, and data pipeline can be found here: https://github.com/ObinnaUzoh/BC-health-authority-performance
